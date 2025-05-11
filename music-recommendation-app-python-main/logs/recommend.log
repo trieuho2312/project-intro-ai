@@ -1,0 +1,116 @@
+[2025-04-25 10:17:17,752] INFO - 🔁 Loading data...
+[2025-04-25 10:17:17,753] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-04-25 10:21:02,583] INFO - 🔁 Loading data...
+[2025-04-25 10:21:02,584] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-04-25 10:34:21,990] INFO - 🔁 Loading data...
+[2025-04-25 10:34:21,991] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-04-25 10:37:05,064] INFO - 🔁 Loading data...
+[2025-04-25 10:37:05,067] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'df_cleaned.pkl'
+[2025-04-25 10:40:47,354] INFO - 🔁 Loading data...
+[2025-04-25 10:40:48,371] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'cosine_sim.pkl'
+[2025-04-25 10:42:26,306] INFO - 🔁 Loading data...
+[2025-04-25 10:42:27,235] INFO - ✅ Data loaded successfully.
+[2025-04-25 10:43:51,714] INFO - 🔁 Loading data...
+[2025-04-25 10:43:53,190] INFO - ✅ Data loaded successfully.
+[2025-04-25 10:44:15,955] INFO - 🔁 Loading data...
+[2025-04-25 10:44:17,554] INFO - ✅ Data loaded successfully.
+[2025-04-25 10:44:33,244] INFO - 🎵 Recommending songs for: ''Cause I Love You'
+[2025-04-25 10:44:33,259] INFO - ✅ Top 5 recommendations ready.
+[2025-04-25 10:44:42,199] INFO - 🎵 Recommending songs for: '11Am'
+[2025-04-25 10:44:42,225] INFO - ✅ Top 5 recommendations ready.
+[2025-04-25 10:47:07,704] INFO - 🎵 Recommending songs for: '11Am'
+[2025-04-25 10:47:07,714] INFO - ✅ Top 5 recommendations ready.
+[2025-04-25 10:47:23,230] INFO - 🎵 Recommending songs for: 'Girl Like You'
+[2025-04-25 10:47:23,240] INFO - ✅ Top 5 recommendations ready.
+[2025-04-25 10:47:31,694] INFO - 🎵 Recommending songs for: 'Girl Like You'
+[2025-04-25 10:47:31,703] INFO - ✅ Top 5 recommendations ready.
+[2025-04-25 10:47:44,228] INFO - 🔁 Loading data...
+[2025-04-25 10:47:45,810] INFO - ✅ Data loaded successfully.
+[2025-04-25 14:54:02,305] INFO - 🔁 Loading data...
+[2025-04-25 14:54:03,969] INFO - ✅ Data loaded successfully.
+[2025-04-25 14:55:07,156] INFO - 🔁 Loading data...
+[2025-04-25 14:55:08,384] INFO - ✅ Data loaded successfully.
+[2025-04-25 15:00:41,095] INFO - 🔁 Loading data...
+[2025-04-25 15:00:42,689] INFO - ✅ Data loaded successfully.
+[2025-04-25 15:04:12,934] INFO - 🔁 Loading data...
+[2025-04-25 15:04:14,312] INFO - ✅ Data loaded successfully.
+[2025-04-25 15:11:37,961] INFO - 🔁 Loading data...
+[2025-04-25 15:11:39,181] INFO - ✅ Data loaded successfully.
+[2025-04-25 15:11:49,870] INFO - 🔁 Loading data...
+[2025-04-25 15:11:50,864] INFO - ✅ Data loaded successfully.
+[2025-04-25 15:12:20,942] INFO - 🎵 Recommending songs for: 'Payphone (Clean Version)'
+[2025-04-25 15:12:20,968] INFO - ✅ Top 5 recommendations ready.
+[2025-04-25 15:13:18,640] INFO - 🎵 Recommending songs for: 'A Time For Heroes'
+[2025-04-25 15:13:18,660] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:53:52,584] INFO - 🔁 Loading data...
+[2025-05-10 21:53:54,555] INFO - ✅ Data loaded successfully.
+[2025-05-10 21:55:13,139] INFO - 🔁 Loading data...
+[2025-05-10 21:55:13,927] INFO - ✅ Data loaded successfully.
+[2025-05-10 21:55:59,517] INFO - 🔁 Loading data...
+[2025-05-10 21:56:00,293] INFO - ✅ Data loaded successfully.
+[2025-05-10 21:56:09,621] INFO - 🔁 Loading data...
+[2025-05-10 21:56:10,417] INFO - ✅ Data loaded successfully.
+[2025-05-10 21:56:21,450] INFO - 🎵 Recommending songs for: ''Cause I Love You'
+[2025-05-10 21:56:21,463] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:58:00,059] INFO - 🔁 Loading data...
+[2025-05-10 21:58:00,761] INFO - ✅ Data loaded successfully.
+[2025-05-10 21:58:07,083] INFO - 🔁 Loading data...
+[2025-05-10 21:58:07,806] INFO - ✅ Data loaded successfully.
+[2025-05-10 21:58:13,908] INFO - 🎵 Recommending songs for: '24 Hours From Tulsa'
+[2025-05-10 21:58:13,917] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:58:37,424] INFO - 🎵 Recommending songs for: 'All My Tomorrows'
+[2025-05-10 21:58:37,439] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:58:44,246] INFO - 🎵 Recommending songs for: 'A Hard Day's Night'
+[2025-05-10 21:58:44,254] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:58:55,388] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:58:55,399] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:02,728] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:02,739] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:03,191] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:03,201] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:03,459] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:03,470] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:03,662] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:03,672] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:06,795] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:06,804] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:06,936] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:06,947] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:07,108] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:07,122] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:07,245] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:07,255] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:07,399] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:07,410] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:07,539] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:07,548] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:08,327] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:08,337] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:08,486] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:08,497] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:08,636] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:08,645] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:08,777] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:08,788] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:08,929] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:08,936] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:09,136] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:09,149] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:09,286] INFO - 🎵 Recommending songs for: 'Again And Again'
+[2025-05-10 21:59:09,297] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:19,304] INFO - 🎵 Recommending songs for: ''59 Crunch'
+[2025-05-10 21:59:19,316] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:26,184] INFO - 🎵 Recommending songs for: ''Cross The Green Mountain'
+[2025-05-10 21:59:26,195] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 21:59:28,532] INFO - 🎵 Recommending songs for: ''59 Crunch'
+[2025-05-10 21:59:28,542] INFO - ✅ Top 5 recommendations ready.
+[2025-05-10 23:53:19,121] INFO - 🔁 Loading data...
+[2025-05-10 23:53:19,982] INFO - ✅ Data loaded successfully.
+[2025-05-10 23:54:08,545] INFO - 🎵 Recommending songs for: 'A House In The Country'
+[2025-05-10 23:54:08,561] INFO - ✅ Top 5 recommendations ready.
+[2025-05-11 00:03:59,030] INFO - 🔁 Loading data...
+[2025-05-11 00:03:59,812] INFO - ✅ Data loaded successfully.
+[2025-05-11 00:04:01,553] INFO - 🎵 Recommending songs for: ''39'
+[2025-05-11 00:04:01,564] INFO - ✅ Top 5 recommendations ready.
+[2025-05-11 16:07:06,740] INFO - 🔁 Loading data...
+[2025-05-11 16:07:07,603] ERROR - ❌ Failed to load required files: [Errno 2] No such file or directory: 'cosine_sim.pkl'
